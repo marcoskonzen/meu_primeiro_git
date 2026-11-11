@@ -4,3 +4,4 @@ Este guia apresenta ferramentas livres.
 Exemplos:
     LibreOffice
     Firefox
+    Ubuntu

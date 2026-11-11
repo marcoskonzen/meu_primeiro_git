@@ -1,2 +1,4 @@
 Guia de software livre
-Este guia presenta ferramentas livres.
+Este guia apresenta ferramentas livres.
+
+Exemplos: LibreOffice

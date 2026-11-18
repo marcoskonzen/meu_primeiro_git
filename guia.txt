@@ -5,3 +5,4 @@ Exemplos:
     LibreOffice
     Firefox
     Ubuntu
+    Gimp

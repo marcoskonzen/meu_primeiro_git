@@ -1,0 +1,5 @@
+*.tmp
+.env
+*.pdf
+*.doc
+./arquivos_teste
